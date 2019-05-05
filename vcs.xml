@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/lcolat/ClaimsoftWebClient.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lcolat/enigmator-web-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Ecole\ESGI\3AL\Claimsoft" />
+    <option name="cloneParentDir" value="C:\Users\user\workspace" />
   </component>
 </application>
