@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="VRMLLoader" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_mrdoob_three.js_dev_examples_jsm_loaders_VRMLLoader.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_mrdoob_three.js_dev_examples_jsm_loaders_VRMLLoader.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
